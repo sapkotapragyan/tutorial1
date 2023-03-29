@@ -1,0 +1,18 @@
+#vin {
+  background-color: blue;
+  border: 0px;
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  color: white;
+  border-radius: 7px;
+}
+
+#benz {
+  color: white;
+  border: 0px;
+  padding: 2%;
+  border-radius: 11px;
+  background-color: maroon;
+}

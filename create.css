@@ -1,0 +1,19 @@
+#par {
+  text-align: center;
+  color: blueviolet;
+  font-size: 0.5in;
+}
+
+#LN {
+  margin-left: 1px;
+  margin-top: 0.05px;
+}
+
+#su {
+  color: white;
+  background-color: rgb(82, 146, 18);
+  border: 0ch;
+  height: 65px;
+  width: 150px;
+  border-radius: 12px;
+}

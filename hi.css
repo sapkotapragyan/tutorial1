@@ -1,0 +1,37 @@
+#fb {
+  text-align: center;
+  color: darkblue;
+  font-size: 110%;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.photo-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.button-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#bttn1 {
+  color: cornsilk;
+  background-color: red;
+  font-size: 110%;
+  border: 0px;
+  height: 43px;
+  border-radius: 11px;
+}
+
+#bttn2 {
+  color: white;
+  background-color: red;
+  border: 0px;
+  border-radius: 11px;
+  height: 110%;
+  font-size: 110%;
+}
