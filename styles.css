@@ -1,0 +1,56 @@
+#OIP {
+  margin-left: 40%;
+  color: blue;
+  font-size: 90px;
+  margin-top: 2px;
+  font-weight: bolder;
+}
+
+#bid {
+  margin-left: 45%;
+  margin-top: 2px;
+  font-size: 20px;
+}
+
+#vid {
+  margin-left: 48%;
+  margin-top: 4px;
+  font-size: 20px;
+}
+
+#forgot {
+  color: blue;
+  margin-left: 50%;
+  font-size: 0.3in;
+}
+
+#create {
+  background-color: rgb(27, 136, 27);
+  color: white;
+  border: 0px;
+  margin-left: 50%;
+  border-radius: 6px;
+  height: 46px;
+  width: 195px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.btn {
+  height: 40px;
+  width: 190px;
+  margin-left: 50%;
+  background-color: rgb(55, 55, 238);
+  color: white;
+  border: 0px;
+  margin-left: 50%;
+  border-radius: 6px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#cre {
+  margin-left: 40%;
+  font-weight: bold;
+  font-size: 20px;
+}
